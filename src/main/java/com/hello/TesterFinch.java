@@ -16,6 +16,7 @@ public class TesterFinch{
         //bird.playNote(60,16);
         //bird.setMove("F",10,99);
         bird.cP1();
+        bird.cP2();
 
         // bird.stopAll();
     }
