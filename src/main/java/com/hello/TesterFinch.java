@@ -22,7 +22,9 @@ public class TesterFinch{
         //bird.setBeak(100,0,0);
 
 
-        //bird.cP2();
+        //
+        // 
+        bird.cP2();
         //bird.setBeak(0,100,0);
         //bird.cP3();
         //bird.setBeak(0,0,100);
